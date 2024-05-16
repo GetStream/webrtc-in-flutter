@@ -1,5 +1,7 @@
 # webrtc_in_flutter
 
+<img src="assets/repo-header.jpg" alt="WebRTC for Flutter Header image" style="box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); border-radius: 1rem" />
+
 📱 This project demonstrates WebRTC protocol to facilitate real-time video communications with Flutter.
 
 This guide is a simplified version of the tutorial for the [flutter_webrtc](https://github.com/flutter-webrtc/flutter-webrtc) plugin found [here](https://github.com/flutter-webrtc/flutter-webrtc-demo).
@@ -7,10 +9,6 @@ This guide is a simplified version of the tutorial for the [flutter_webrtc](http
 ## ✍️ Technical Content
 
 If you're interested in knowing more about building a Flutter WebRTC app, check out the following blog post: **[WebRTC Video Calling with Flutter](https://getstream.io/resources/projects/webrtc/platforms/flutter/)**
-
-## 🛥 Stream Chat & Video SDK
-
-**Generative AI with Flutter** is built with __[Stream Chat SDK for Flutter](https://getstream.io/chat/sdk/flutter/?utm_source=github&utm_medium=referral&utm_content=&utm_campaign=devenossproject)__ to implement messaging systems. If you’re interested in building powerful real-time video/audio calling, audio room, and livestreaming, check out the __[Stream Video SDK for Flutter](https://getstream.io/video/sdk/flutter/tutorial/video-calling/?utm_source=github&utm_medium=referral&utm_content=&utm_campaign=devenossproject)__!
 
 ### Stream Chat
 
