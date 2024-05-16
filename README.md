@@ -1,6 +1,6 @@
 # webrtc_in_flutter
 
-<img src="assets/repo-header.jpg" alt="WebRTC for Flutter Header image" style="box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); border-radius: 1rem" />
+<img src="assets/repo-header.png" alt="WebRTC for Flutter Header image" style="box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); border-radius: 1rem" />
 
 📱 This project demonstrates WebRTC protocol to facilitate real-time video communications with Flutter.
 
